@@ -1,4 +1,5 @@
 <template>
+<div>Hola</div>
   <router-view/>
 </template>
 
