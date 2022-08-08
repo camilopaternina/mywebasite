@@ -23,7 +23,10 @@
               <a :class="nav2" href="#">Proyectos</a>
             </li>
             <li class="nav-item">
-              <a :class="nav2" href="#">Mis viajes</a>
+              <a :class="nav3" aria-current="page" href="#">Habilidades</a>
+            </li>
+            <li class="nav-item">
+              <a :class="nav4" href="#">Mis viajes</a>
             </li>
           </ul>
         </div>
@@ -37,7 +40,8 @@ export default{
     props:{
         nav1: String,
         nav2: String,
-        nav3: String
+        nav3: String,
+        nav4:String
     }
 }
 </script>

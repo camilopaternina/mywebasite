@@ -4,6 +4,7 @@
       nav1="nav-link active"
       nav2="nav-link"
       nav3="nav-link"
+      nav4="nav-link"
     />
 
     <!-- Container -->
