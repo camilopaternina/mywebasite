@@ -29,6 +29,13 @@
             <p>Me considero un amante de la tecnología, me interesa explorar nuevas herramientas y nunca parar de aprender. <br>Estoy cursando noveno semestre en la Universidad de Córdoba en Colombia, espero que podamos trabajar juntos, estoy seguro que podemos alcanzar cosas muy grandes :).</p>
           </div>
         </div>
+
+        <div class="col-lg-8 col-10 mt-4">
+            <h3 style="color:gray;" id="Mis Proyectos">Mis Proyectos</h3>
+        </div>
+        <div class="col-12 col-lg-8 border shadow rounded-start row p-3 justify-content-center">
+
+        </div>
       </div>
     </div>
   </div>

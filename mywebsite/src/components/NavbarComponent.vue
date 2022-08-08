@@ -20,7 +20,7 @@
               <a :class="nav1" aria-current="page" href="#">Inicio</a>
             </li>
             <li class="nav-item">
-              <a :class="nav2" href="#">Proyectos</a>
+              <a :class="nav2" href="#Mis Proyectos">Proyectos</a>
             </li>
             <li class="nav-item">
               <a :class="nav3" aria-current="page" href="#">Habilidades</a>
