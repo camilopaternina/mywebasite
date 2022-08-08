@@ -22,7 +22,7 @@
             <h5 style="color:gray;">Estudiante de ingenieria de Sistemas</h5>
             <h6 style="color:gray;">Universidad de Córdoba</h6>
             <hr>
-            <p>Me considero un amante de la tecnología, me interesa explorar nuevas herramientas y nunca para de aprender. <br>Estoy cursando noveno semestre en la Universidad de Córdoba en Colombia, espero que podamos trabajar juntos, estoy seguro que podemos alcanzr cosas muy grandes :).</p>
+            <p>Me considero un amante de la tecnología, me interesa explorar nuevas herramientas y nunca parar de aprender. <br>Estoy cursando noveno semestre en la Universidad de Córdoba en Colombia, espero que podamos trabajar juntos, estoy seguro que podemos alcanzar cosas muy grandes :).</p>
           </div>
         </div>
       </div>
