@@ -1,6 +1,6 @@
 <template>
   <div>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light shadow p-3 mb-5 rounded">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light shadow p-3 mb-3 mb-lg-4 rounded">
       <div class="container">
         <a class="navbar-brand" href="#" style="font-size: 25px; margin-left: 3px;">Camilo Paternina</a>
         <button
@@ -29,7 +29,7 @@
               <a :class="nav4" href="#">Mis viajes</a>
             </li>
             <li class="nav-item">
-              <a :class="nav4" href="#">Mi GitHub</a>
+              <a :class="nav4" href="https://github.com/camilopaternina" target="_blank">Mi GitHub</a>
             </li>
           </ul>
         </div>

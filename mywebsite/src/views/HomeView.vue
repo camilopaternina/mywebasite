@@ -9,14 +9,17 @@
 
     <!-- Container -->
     <div class="container">
-      <div class="row p-0">
+      <div class="row p-0 justify-content-center">
         <!-- Presentación -->
-        <div class="col-12 rounded row p-0 justify-content-center p-2">
+        <div class="col-lg-8 col-10">
+            <h3 style="color:gray;">Presentación</h3>
+        </div>
+        <div class="col-lg-8 col-10 border shadow rounded-start row p-3 justify-content-center">
           <img
             src="@/assets/yo.jpeg"
             alt="Camilo Paternina"
-            class="col-12 col-lg-4 rounded-circle"
-            style="height: 260px; width: 220px"
+            class="col-12 col-lg-4 rounded-circle shadow p-0"
+            style="height: 260px; width: 200px"
           />
           <div class="col-10 col-lg-8 justify-content-center mt-3 mt-lg-0">
             <h2>Camilo Paternina</h2>
@@ -42,3 +45,9 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+h3{
+    text-shadow: 1px 1px 7px hsla(0, 1%, 20%, 0.4);
+}
+</style>
