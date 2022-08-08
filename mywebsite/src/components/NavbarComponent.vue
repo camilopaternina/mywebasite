@@ -28,6 +28,9 @@
             <li class="nav-item">
               <a :class="nav4" href="#">Mis viajes</a>
             </li>
+            <li class="nav-item">
+              <a :class="nav4" href="#">Mi GitHub</a>
+            </li>
           </ul>
         </div>
       </div>
