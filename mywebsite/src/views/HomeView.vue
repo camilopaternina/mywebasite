@@ -24,7 +24,7 @@
           />
           <div class="col-12 col-lg-8 justify-content-center mt-3 mt-lg-0">
             <h2>Camilo Paternina</h2>
-            <h5 style="color:gray;">Estudiante de ingenieria de Sistemas</h5>
+            <h5 style="color:gray;">Estudiante de ingeniería de Sistemas</h5>
             <h6 style="color:gray;">Universidad de Córdoba</h6>
             <hr>
             <p>Me considero un amante de la tecnología, me interesa explorar nuevas herramientas y nunca parar de aprender. <br>Estoy cursando noveno semestre en la Universidad de Córdoba en Colombia, espero que podamos trabajar juntos, estoy seguro que podemos alcanzar cosas muy grandes :).</p>
@@ -73,6 +73,24 @@
 
           <div class="col-12 col-lg-3 row  justify-content-center text-center">
             <img src="@/assets/Habilidades/Php.png" alt="Php" class=" rounded-circle col-12" style="height: 120px;width:140px ;">
+            <hr class="mt-2">
+            <p>1 semestre aprobado en Desarrollo Web</p>
+          </div>
+
+          <div class="col-12 col-lg-3 row  justify-content-center text-center">
+            <img src="@/assets/Habilidades/Laravel.png" alt="Laravel" class=" rounded-circle col-12" style="height: 120px;width:140px ;">
+            <hr class="mt-2">
+            <p>1 semestre aprobado en Desarrollo Web</p>
+          </div>
+
+          <div class="col-12 col-lg-3 row  justify-content-center text-center">
+            <img src="@/assets/Habilidades/MySQL.png" alt="MySQL" class=" rounded-circle col-12" style="height: 120px;width:140px ;">
+            <hr class="mt-2">
+            <p>2 semestre aprobado en BD relacionales</p>
+          </div>
+
+          <div class="col-12 col-lg-3 row  justify-content-center text-center">
+            <img src="@/assets/Habilidades/Vue.png" alt="Vue" class=" rounded-circle col-12" style="height: 120px;width:140px ;">
             <hr class="mt-2">
             <p>1 semestre aprobado en Desarrollo Web</p>
           </div>
