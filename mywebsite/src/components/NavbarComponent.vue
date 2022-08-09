@@ -26,7 +26,7 @@
               <a :class="nav3" aria-current="page" href="#Mis Habilidades">Habilidades</a>
             </li>
             <li class="nav-item">
-              <a :class="nav4" href="#Mis Viajes">Mis viajes</a>
+              <a :class="nav4" href="#Lugares">Lugares</a>
             </li>
             <li class="nav-item">
               <a :class="nav4" href="https://github.com/camilopaternina" target="_blank">Mi GitHub</a>

@@ -86,7 +86,7 @@
           <div class="col-12 col-lg-3 row  justify-content-center text-center">
             <img src="@/assets/Habilidades/MySQL.png" alt="MySQL" class=" rounded-circle col-12" style="height: 120px;width:140px ;">
             <hr class="mt-2">
-            <p>2 semestre aprobado en BD relacionales</p>
+            <p>2 semestres aprobados en BD relacionales</p>
           </div>
 
           <div class="col-12 col-lg-3 row  justify-content-center text-center">
@@ -98,7 +98,7 @@
 
         <!-- Mis Viajes -->
         <div class="col-lg-8 col-10 mt-4 bg-light">
-            <h3 style="color:gray;" id="Mis Viajes">Mis Viajes</h3>
+            <h3 style="color:gray;" id="Lugares">Lugares</h3>
         </div>
         <div class=" bg-light col-10 col-lg-8 border shadow rounded-start row p-3 justify-content-center">
 
