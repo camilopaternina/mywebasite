@@ -21,7 +21,7 @@
             class="col-12 col-lg-4 rounded-circle shadow p-0"
             style="height: 260px; width: 200px"
           />
-          <div class="col-10 col-lg-8 justify-content-center mt-3 mt-lg-0">
+          <div class="col-12 col-lg-8 justify-content-center mt-3 mt-lg-0">
             <h2>Camilo Paternina</h2>
             <h5 style="color:gray;">Estudiante de ingenieria de Sistemas</h5>
             <h6 style="color:gray;">Universidad de Córdoba</h6>
@@ -33,8 +33,8 @@
         <div class="col-lg-8 col-10 mt-4">
             <h3 style="color:gray;" id="Mis Proyectos">Mis Proyectos</h3>
         </div>
-        <div class="col-12 col-lg-8 border shadow rounded-start row p-3 justify-content-center">
-
+        <div class="col-10 col-lg-8 border shadow rounded-start row p-3 justify-content-center">
+          
         </div>
       </div>
     </div>
