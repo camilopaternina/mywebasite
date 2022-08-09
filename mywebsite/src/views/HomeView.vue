@@ -14,7 +14,8 @@
         <div class="col-lg-8 col-10">
             <h3 style="color:gray;">Presentación</h3>
         </div>
-        <div class="col-lg-8 col-10 border shadow rounded-start row p-3 justify-content-center">
+
+        <div class="col-lg-8 col-10 border shadow rounded-start row p-3 justify-content-center bg-light">
           <img
             src="@/assets/yo.jpeg"
             alt="Camilo Paternina"
@@ -34,7 +35,7 @@
         <div class="col-lg-8 col-10 mt-4">
             <h3 style="color:gray;" id="Mis Proyectos">Mis Proyectos</h3>
         </div>
-        <div class="col-10 col-lg-8 border shadow rounded-start row p-3 justify-content-around">
+        <div class="col-10 col-lg-8 border shadow rounded-start row p-3 justify-content-around bg-light">
           <div class="card col-12 col-lg-5">
             <div class="card-body">
               <h5 class="card-title">Lalila</h5>
@@ -56,15 +57,15 @@
         <div class="col-lg-8 col-10 mt-4">
             <h3 style="color:gray;" id="Mis Habilidades">Mis Habilidades</h3>
         </div>
-        <div class="col-10 col-lg-8 border shadow rounded-start row p-3 justify-content-center">
+        <div class=" bg-light col-10 col-lg-8 border shadow rounded-start row p-3 justify-content-center">
 
         </div>
 
         <!-- Mis Viajes -->
-        <div class="col-lg-8 col-10 mt-4">
+        <div class="col-lg-8 col-10 mt-4 bg-light">
             <h3 style="color:gray;" id="Mis Viajes">Mis Viajes</h3>
         </div>
-        <div class="col-10 col-lg-8 border shadow rounded-start row p-3 justify-content-center">
+        <div class=" bg-light col-10 col-lg-8 border shadow rounded-start row p-3 justify-content-center">
 
         </div>
       </div>
