@@ -15,7 +15,7 @@
             <h3 style="color:gray;">Presentación</h3>
         </div>
 
-        <div class="col-lg-8 col-10 border shadow rounded-start row p-3 justify-content-center bg-light">
+        <div class="col-lg-8 col-10 border shadow rounded row p-3 justify-content-center bg-star">
           <img
             src="@/assets/yo.jpeg"
             alt="Camilo Paternina"
@@ -24,8 +24,8 @@
           />
           <div class="col-12 col-lg-8 justify-content-center mt-3 mt-lg-0">
             <h2>Camilo Paternina</h2>
-            <h5 style="color:gray;">Estudiante de ingeniería de Sistemas</h5>
-            <h6 style="color:gray;">Universidad de Córdoba</h6>
+            <h5 style="color: #0009;">Estudiante de ingeniería de Sistemas</h5>
+            <h6 style="color: #0009;">Universidad de Córdoba</h6>
             <hr>
             <p>Me considero un amante de la tecnología, me interesa explorar nuevas herramientas y nunca parar de aprender. <br>Estoy cursando noveno semestre en la Universidad de Córdoba en Colombia, espero que podamos trabajar juntos, estoy seguro que podemos alcanzar cosas muy grandes :).</p>
           </div>
@@ -35,8 +35,8 @@
         <div class="col-lg-8 col-10 mt-4">
             <h3 style="color:gray;" id="Mis Proyectos">Mis Proyectos</h3>
         </div>
-        <div class="col-10 col-lg-8 border shadow rounded-start row p-3 justify-content-around bg-light">
-          <div class="card col-12 col-lg-5">
+        <div class="col-10 col-lg-8 border shadow rounded row p-3 justify-content-around bg-star">
+          <div class="card col-12 col-lg-5 bg-star">
             <div class="card-body">
               <h5 class="card-title">Lalila</h5>
               <hr>
@@ -44,7 +44,7 @@
             </div>
           </div>
 
-          <div class="card col-12 col-lg-5 mt-3 mt-lg-0">
+          <div class="card col-12 col-lg-5 mt-3 mt-lg-0 bg-star">
             <div class="card-body">
               <h5 class="card-title">YoutubeDownload</h5>
               <hr>
@@ -57,7 +57,7 @@
         <div class="col-lg-8 col-10 mt-4">
             <h3 style="color:gray;" id="Mis Habilidades">Mis Habilidades</h3>
         </div>
-        <div class=" bg-light col-10 col-lg-8 border shadow rounded-start row p-3 justify-content-center">
+        <div class=" bg-star col-10 col-lg-8 border shadow rounded row p-3 justify-content-center">
           
           <div class="col-12 col-lg-3 row  justify-content-center text-center">
             <img src="@/assets/Habilidades/Java.png" alt="Java" class="rounded-circle col-12" style="height: 120px;width:120px ;">
@@ -97,10 +97,10 @@
         </div>
 
         <!-- Mis Viajes -->
-        <div class="col-lg-8 col-10 mt-4 bg-light">
+        <div class="col-lg-8 col-10 mt-4">
             <h3 style="color:gray;" id="Lugares">Lugares</h3>
         </div>
-        <div class=" bg-light col-10 col-lg-8 border shadow rounded-start row p-3 justify-content-center">
+        <div class=" bg-star col-10 col-lg-8 border shadow rounded row p-3 justify-content-center">
 
         </div>
       </div>
@@ -122,6 +122,10 @@ export default {
 
 <style scoped>
 h3{
-    text-shadow: 1px 1px 7px hsla(0, 1%, 20%, 0.4);
+  text-shadow: 1px 1px 7px hsla(0, 1%, 20%, 0.4);
+}
+
+.bg-star{
+  background-color:rgba(220, 214, 214, 0.8);
 }
 </style>

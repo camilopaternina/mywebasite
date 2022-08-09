@@ -4,6 +4,6 @@
 
 <style>
 body{
-  background-color:aliceblue;
+  background: url("@/assets/stars-universe.gif");
 }
 </style>
