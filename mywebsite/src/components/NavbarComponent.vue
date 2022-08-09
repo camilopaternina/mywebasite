@@ -1,6 +1,6 @@
 <template>
   <div>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light shadow p-3 mb-3 mb-lg-4 rounded">
+    <nav class="navbar navbar-expand-lg navbar-light bg-star shadow p-3 mb-3 mb-lg-4 rounded">
       <div class="container">
         <a class="navbar-brand" href="#" style="font-size: 25px; margin-left: 3px;">Camilo Paternina</a>
         <button

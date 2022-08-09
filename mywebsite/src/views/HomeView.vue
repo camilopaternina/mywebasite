@@ -124,7 +124,9 @@ export default {
 h3{
   text-shadow: 1px 1px 7px hsla(0, 1%, 20%, 0.4);
 }
+</style>
 
+<style>
 .bg-star{
   background-color:rgba(220, 214, 214, 0.8);
 }
