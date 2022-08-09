@@ -58,7 +58,24 @@
             <h3 style="color:gray;" id="Mis Habilidades">Mis Habilidades</h3>
         </div>
         <div class=" bg-light col-10 col-lg-8 border shadow rounded-start row p-3 justify-content-center">
+          
+          <div class="col-12 col-lg-3 row  justify-content-center text-center">
+            <img src="@/assets/Habilidades/Java.png" alt="Java" class="rounded-circle col-12" style="height: 120px;width:120px ;">
+            <hr class="mt-2">
+            <p>3 semestres aprobados de POO usando Java</p>
+          </div>
 
+          <div class="col-12 col-lg-3 row justify-content-center text-center">
+            <img src="@/assets/Habilidades/Js.png" alt="Js" class=" rounded-circle col-12" style="height: 120px;width:140px ;">
+            <hr class="mt-2">
+            <p>1 semestre aprobado en Desarrollo Web</p>
+          </div>
+
+          <div class="col-12 col-lg-3 row  justify-content-center text-center">
+            <img src="@/assets/Habilidades/Php.png" alt="Php" class=" rounded-circle col-12" style="height: 120px;width:140px ;">
+            <hr class="mt-2">
+            <p>1 semestre aprobado en Desarrollo Web</p>
+          </div>
         </div>
 
         <!-- Mis Viajes -->
