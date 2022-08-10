@@ -8,7 +8,7 @@
     />
 
     <!-- Container -->
-    <div class="container">
+    <div class="container mb-3 mb-lg-4">
       <div class="row p-0 justify-content-center">
         <!-- Presentación -->
         <div class="col-lg-8 col-10">
@@ -20,7 +20,7 @@
             src="@/assets/yo.jpeg"
             alt="Camilo Paternina"
             class="col-12 col-lg-4 rounded-circle shadow p-0"
-            style="height: 260px; width: 200px"
+            style="height: 260px; width: 190px"
           />
           <div class="col-12 col-lg-8 justify-content-center mt-3 mt-lg-0">
             <h2>Camilo Paternina</h2>
@@ -101,19 +101,41 @@
             <h3 style="color:gray;" id="Lugares">Lugares</h3>
         </div>
         <div class=" bg-star col-10 col-lg-8 border shadow rounded row p-3 justify-content-center">
+          <div class="col-12 col-lg-4 row  justify-content-center text-center">
+            <img src="@/assets/Lugares/Santa_Marta.jpeg" alt="Santa Marta" class="col-12 rounded-circle" style="height: 200px;width:200px ;">
+            <p>Parque Tayrona (Santa Marta)</p>
+          </div>
 
+          <div class="col-12 col-lg-4 row  justify-content-center text-center">
+            <img src="@/assets/Lugares/San_Antero.jpeg" alt="San Antero" class="col-12 rounded-circle" style="height: 200px;width:200px ;">
+            <p>Playas de San Antero (Córdoba)</p>
+          </div>
+
+          <div class="col-12 col-lg-4 row  justify-content-center text-center">
+            <img src="@/assets/Lugares/Buritaca.jpeg" alt="Buritaca" class="col-12 rounded-circle" style="height: 200px;width:200px ;">
+            <p>Buritaca (Santa Marta)</p>
+          </div>
+
+          <div class="col-12 col-lg-4 row  justify-content-center text-center">
+            <img src="@/assets/Lugares/Montería.jpeg" alt="Montería" class="col-12 rounded-circle" style="height: 200px;width:200px ;">
+            <p>Montería (Córdoba)</p>
+          </div>
         </div>
       </div>
     </div>
+
+    <FooterComponentVue></FooterComponentVue>
   </div>
 </template>
 
 <script>
 import NavbarComponentVue from "@/components/NavbarComponent.vue";
+import FooterComponentVue from "@/components/FooterComponent.vue";
 export default {
   components: {
     NavbarComponentVue,
-  },
+    FooterComponentVue,
+},
   created() {
     document.title = "Camilo Paternina - Inicio";
   },
