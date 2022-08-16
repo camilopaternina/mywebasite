@@ -2,7 +2,7 @@
   <div>
     <nav class="navbar navbar-expand-lg navbar-light bg-star shadow p-3 mb-3 mb-lg-4 rounded">
       <div class="container">
-        <a class="navbar-brand" href="#" style="font-size: 25px; margin-left: 3px;">Camilo Paternina</a>
+        <a class="navbar-brand" href="#"><img src="@/assets/logo.png" alt="Logo" style="height: 80px; width: 80px;"></a>
         <button
           class="navbar-toggler"
           type="button"
